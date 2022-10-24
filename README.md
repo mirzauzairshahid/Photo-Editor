@@ -28,9 +28,9 @@ Feel free to submit pull requests to me.
 
 ## Authors
 
-* **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
+* *Uzair Shahid** - *Initial work* - [Uzair Shahid](https://github.com/mirzauzairshahid)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is No licensed
